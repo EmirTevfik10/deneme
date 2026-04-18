@@ -1,1 +1,1 @@
-print("Naber baran merhaba")
+print("Naber baran amerhaba")
